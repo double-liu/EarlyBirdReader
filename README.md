@@ -36,7 +36,9 @@
 
 #### 效果图
 
-  ![avatar](./screenshot/home.jpg)
+  <img src="./screenshot/home.jpg" width=150 height=325 />
+
+ 
 
 #### 总结
 
